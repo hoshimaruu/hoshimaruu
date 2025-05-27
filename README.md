@@ -46,6 +46,6 @@ int main() {
 
 <p align="left"> <img src="https://img.icons8.com/color/48/000000/windows-11.png" alt="Windows 11" title="Windows 11"/> <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS Code" title="Visual Studio Code"/> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" alt="Windows Terminal" title="Windows Terminal"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C/C++" title="C/C++"/> </p>
 
-<p align="left"> <a href="mailto:Whyeixha1986@gmail.com"> <img src="https://img.shields.io/badge/Email-Whyeixha1986@gmail.com-blue?style=flat-square&logo=gmail" alt="Email Badge"/> </a> <a href="https://instagram.com/howeixha" target="_blank"> <img src="https://img.shields.io/badge/Instagram-@howeixha-purple?style=flat-square&logo=instagram" alt="Instagram Badge"/> </a> </p>
+<p align="left"> <a href="mailto:Whyeixha1986@gmail.com"> <img src="https://img.shields.io/badge/Email-Whyeixha1986@gmail.com-blue?style=flat-square&logo=gmail" alt="Email Badge"/> </a> <a href="https://instagram.com/hoshimaruu333" target="_blank"> <img src="https://img.shields.io/badge/Instagram-@hoshimaruu333-purple?style=flat-square&logo=instagram" alt="Instagram Badge"/> </a> </p>
 
 <p align="center">Thanks for visiting my profile!</p>
