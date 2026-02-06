@@ -54,6 +54,6 @@ int main() {
 </p>
 
 
-<p align="left"> <a href="mailto:Whyeixha1986@gmail.com"> <img src="https://img.shields.io/badge/Email-Whyeixha1986@gmail.com-blue?style=flat-square&logo=gmail" alt="Email Badge"/> </a> <a href="https://instagram.com/hoshiimaruu" target="_blank"> <img src="https://img.shields.io/badge/Instagram-@hoshimaruu333-purple?style=flat-square&logo=instagram" alt="Instagram Badge"/> </a> </p>
+<p align="left"> <a href="mailto:Whyeixha1986@gmail.com"> <img src="https://img.shields.io/badge/Email-Whyeixha1986@gmail.com-blue?style=flat-square&logo=gmail" alt="Email Badge"/> </a> <a href="https://instagram.com/hoshiimaruu" target="_blank"> <img src="https://img.shields.io/badge/Instagram-@hoshiimaruu-purple?style=flat-square&logo=instagram" alt="Instagram Badge"/> </a> </p>
 
 <p align="center">Thanks for visiting my profile!</p>
