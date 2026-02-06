@@ -20,7 +20,7 @@
 
 - 🧠 Currently learning **C++**
 - 🎬 Passionate about **video editing**
-- 💻 Tools I use: **Windows 11**, **VS Code**, **Windows Terminal**
+- 💻 Tools I use: **Windows 11**, **VS Code**, **Windows Terminal**, **Nano (WSL Ubuntu)**
 - 🌏 Based in the **Philippines**
 - 🛠️ Always exploring new tech
 
