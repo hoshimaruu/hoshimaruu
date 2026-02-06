@@ -9,8 +9,8 @@
 <h1 align="center">Hi, I'm John Michael B. Nagar</h1>
 
 <p align="center">
-  🎓 18 y/o student from the <b>Philippines</b> <br>
-  💻 Learning <b>C++</b> | 🎥 Skilled in <b>Video Editing</b> <br>
+  🎓 19 y/o student from the <b>Philippines</b> <br>
+  💻 Learning <b>C++, Python, and Assembly</b> | 🎥 Skilled in <b>Video Editing</b> <br>
   🚀 Future <b>Software Engineer</b>
 </p>
 
@@ -44,7 +44,7 @@ int main() {
 }
  ```
 
-<p align="left"> <img src="https://img.icons8.com/color/48/000000/windows-11.png" alt="Windows 11" title="Windows 11"/> <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS Code" title="Visual Studio Code"/> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" alt="Windows Terminal" title="Windows Terminal"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C/C++" title="C/C++"/> </p>
+<p align="left"> <img src="https://img.icons8.com/color/48/000000/windows-11.png" alt="Windows 11" title="Windows 11"/> <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS Code" title="Visual Studio Code"/> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" alt="Windows Terminal" title="Windows Terminal"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C/C++" title="C/C++"/> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Py" title="Python"/> <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" alt="ASM" title="Assembly"/> </p>
 
 <p align="left"> <a href="mailto:Whyeixha1986@gmail.com"> <img src="https://img.shields.io/badge/Email-Whyeixha1986@gmail.com-blue?style=flat-square&logo=gmail" alt="Email Badge"/> </a> <a href="https://instagram.com/hoshimaruu333" target="_blank"> <img src="https://img.shields.io/badge/Instagram-@hoshimaruu333-purple?style=flat-square&logo=instagram" alt="Instagram Badge"/> </a> </p>
 
